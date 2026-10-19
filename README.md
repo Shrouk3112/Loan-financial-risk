@@ -240,15 +240,3 @@ Loan\\\\\\\_Risk/
 
 \- Build a real-time reporting solution.
 
-
-
-\---
-
-
-
-\## Author
-
-
-
-\*\*Shoroq Mohamed\*\*
-
